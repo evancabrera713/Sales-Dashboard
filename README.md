@@ -8,7 +8,7 @@ Steps for creating an effective dashboard and visualization.
 - Collect Requirements
 - Choose the Right Charts
 - Draw Mockups
-- Choose colors
+- Choose Colors
 ## Build the Data Source
 - Connect Data
 - Create Data Model
