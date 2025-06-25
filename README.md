@@ -2,6 +2,8 @@
 
 Dyanmic tableau sales dashboard using the following guidelines, learned from DataWithBaraa.
 
+Dashboard can be found here: https://public.tableau.com/app/profile/evan.cabrera/viz/SalesandCustomerDynamicDashboards/SalesDashboard 
+
 Steps for creating an effective dashboard and visualization.
 
 ## Analyze Requirements
