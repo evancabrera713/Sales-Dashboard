@@ -3,7 +3,40 @@
 Dyanmic sales dashboard using the following guidelines, learned from DataWithBaraa.
 
 Steps for creating an effective dashboard and visualization
-  1. Analyze requirements
-  2. Build data source
-  3. Build charts
-  4. Build dashboard
+  1. Analyze Requirements
+  2. Build Data Source
+  3. Build Charts
+  4. Build Dashboard
+
+
+## Analyze Requirements
+- Collect Requirements
+- Choose the Right Charts
+- Draw Mockups
+- Choose colors
+## Build the Data Source
+- Connect Data
+- Create Data Model
+- Rename Fields/Tables
+- Check Data Types
+- Understand Data
+## Building Charts
+- Create Calculated Fields & Test
+- Build Chart
+- Format
+  - Remove Lines & Grids
+  - Clean up Axis & Headers
+  - Coloring
+  - Tooltip
+## Building Dashboard
+- Draw Mockups for Containers
+- Build Container Structure
+- Put all Charts together
+- Format
+  - Distributed Content "Evenly"
+  - Format Colors, Sizes, etc.
+  - Fit "Entire View"
+  - Add Legends
+  - Add Spaces (Inner/Outer Padding)
+- Add Filters & Dynamic
+- Add Icons
